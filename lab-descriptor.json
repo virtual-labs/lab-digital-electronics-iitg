@@ -11,35 +11,35 @@
   "experiments": [
     {
       "name": "To implement Half adder & Full adder by using basic and universal gates",
-      "short-name": "Half adder Full adder",
+      "short-name": "Half-adder-Full-adder",
       "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitg/implement-half-adder-basic-universal-gates-iitg",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "To study Parallel Binary Adder",
-      "short-name": "Parallel Binary Adder",
+      "short-name": "Parallel-Binary-Adder",
       "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitg/implement-study-of-parallel-binary-adder-using-basic-universal-gates-iitg",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "To study a BCD to 7 Segment LED display decoder ",
-      "short-name": "BCD to LED",
+      "short-name": "BCD-to-LED",
       "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitg/implement-one-bit-full-adder-using-multiplexer-iitg",
       "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Study of Binary to Grey code converter ",
-      "short-name": "Binary to Grey code",
+      "short-name": "Binary-to-Grey-code",
       "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitg/binary-to-graycode-converter-universal-gates-iitg",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Implementation of Boolean Functions using MUX",
-      "short-name": "Boolean Functions using MUX",
+      "short-name": "Boolean-Functions-using-MUX",
       "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitg/one-bit-full-adder-using-multiplexer-iitg",
       "tag": "v1.0.1",
       "deploy": true
@@ -53,14 +53,14 @@
     },
     {
       "name": "To study a simple two-bit ripple counter",
-      "short-name": "two-bit ripple counter",
+      "short-name": "two-bit-ripple-counter",
       "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitg/implement-study-ripple-counter-using-basic-universal-gates-iitg",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Design a synchronous up/down counter",
-      "short-name": "synchronous up down counter",
+      "short-name": "synchronous-up-down-counter",
       "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitg/implement-3-bit-up-counter-iitg",
       "tag": "v1.0.1",
       "deploy": true
