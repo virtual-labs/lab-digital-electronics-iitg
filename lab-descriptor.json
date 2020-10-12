@@ -1,0 +1,81 @@
+{
+  "broadArea": {
+    "name": "Electronics and Communication Engineering",
+    "link": "http://www.vlab.co.in/broad-area-electronics-and-communications"
+  },
+  "lab": "Digital Electronics IITG",
+  "phase": 3,
+  "collegeName": "IITG",
+  "baseUrl": "de-iitg.vlabs.ac.in",
+  "introduction": "Welcome to the Digital Electronics Lab",
+  "experiments": [
+    {
+      "name": "To implement Half adder & Full adder by using basic and universal gates",
+      "short-name": "Half adder Full adder",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitg/implement-half-adder-basic-universal-gates-iitg",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "To study Parallel Binary Adder",
+      "short-name": "Parallel Binary Adder",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitg/implement-study-of-parallel-binary-adder-using-basic-universal-gates-iitg",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "To study a BCD to 7 Segment LED display decoder ",
+      "short-name": "BCD to LED",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitg/implement-one-bit-full-adder-using-multiplexer-iitg",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Study of Binary to Grey code converter ",
+      "short-name": "Binary to Grey code",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitg/binary-to-graycode-converter-universal-gates-iitg",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Implementation of Boolean Functions using MUX",
+      "short-name": "Boolean Functions using MUX",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitg/one-bit-full-adder-using-multiplexer-iitg",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "To study the J-K FF and conversion of D and T flip flop to JKFF",
+      "short-name": "JKFF",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitg/flipflops-iitg",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "To study a simple two-bit ripple counter",
+      "short-name": "two-bit ripple counter",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitg/implement-study-ripple-counter-using-basic-universal-gates-iitg",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Design a synchronous up/down counter",
+      "short-name": "synchronous up down counter",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitg/implement-3-bit-up-counter-iitg",
+      "tag": "v1.0.1",
+      "deploy": true
+    }
+  ],
+  "targetAudience": {
+    "UG": ["B. Tech./ B.E in Electronics and Communications"],
+    "PG": [
+      "MS/Ph. D. Beginners in Electronics and Communications and related topics"
+    ]
+  },
+  "objective": "Intention of this lab is to provide exposure to the students and other users on the fundamental of digital electronics. The lab contents are chosen such that it covers the syllabi of the digital electronics course of various universities to considerable extent. By performing such virtual laboratories remotely, the user can repeat the experiments for better understanding and also learn at their own pace and according to their time of convenience. The learning management system developed for the experiments tries to provide a comprehensive coverage of different experiments covered under the laboratory.",
+  "courseAlignment": {
+    "description": "The lab contents are chosen such that it covers the syllabi of the digital electronics course of various universities to considerable extent.",
+    "universities": ["Universities with Electronics and Communications"]
+  },
+  "version": "v0.0.1"
+}
