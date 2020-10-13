@@ -24,6 +24,13 @@
       "deploy": true
     },
     {
+      "name": "To study a BCD to 7 Segment LED display decoder ",
+      "short-name": "bcd-to-led",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitg/implement-one-bit-full-adder-using-multiplexer-iitg",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
       "name": "Study of Binary to Grey code converter ",
       "short-name": "binary-to-grey-code",
       "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitg/binary-to-graycode-converter-universal-gates-iitg",
@@ -34,6 +41,13 @@
       "name": "Implementation of Boolean Functions using MUX",
       "short-name": "boolean-functions-using-mux",
       "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitg/one-bit-full-adder-using-multiplexer-iitg",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "To study a BCD to 7 Segment LED display decoder ",
+      "short-name": "bcd-to-led",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitg/implement-one-bit-full-adder-using-multiplexer-iitg",
       "tag": "v1.0.1",
       "deploy": true
     },
@@ -63,5 +77,5 @@
     "description": "The lab contents are chosen such that it covers the syllabi of the digital electronics course of various universities to considerable extent.",
     "universities": ["Universities with Electronics and Communications"]
   },
-  "version": "v0.0.1"
+  "version": "v0.0.2"
 }
