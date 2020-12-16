@@ -45,8 +45,8 @@
       "deploy": true
     },
     {
-      "name": "To study a BCD to 7 Segment LED display decoder ",
-      "short-name": "bcd-to-led",
+      "name": "To study the J-K FF and conversion of D and T flip flop to JKFF.",
+      "short-name": "truth-tables-flip-flops",
       "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitg/implement-one-bit-full-adder-using-multiplexer-iitg",
       "tag": "v1.0.1",
       "deploy": true
