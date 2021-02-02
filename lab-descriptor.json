@@ -12,56 +12,56 @@
     {
       "name": "To implement Half adder & Full adder by using basic and universal gates",
       "short-name": "half-adder-full-adder",
-      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitg/implement-half-adder-basic-universal-gates-iitg",
+      "repo": "https://github.com/virtual-labs/exp-half-adder-full-adder-iitg",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "To study Parallel Binary Adder",
       "short-name": "parallel-binary-adder",
-      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitg/implement-study-of-parallel-binary-adder-using-basic-universal-gates-iitg",
+      "repo": "https://github.com/virtual-labs/exp-parallel-binary-adder-iitg",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "To study a BCD to 7 Segment LED display decoder ",
       "short-name": "bcd-to-led",
-      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitg/implement-one-bit-full-adder-using-multiplexer-iitg",
-      "tag": "v1.0.1",
+      "repo": "https://github.com/virtual-labs/exp-bcd-to-led-iitg",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Study of Binary to Grey code converter ",
       "short-name": "binary-to-grey-code",
-      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitg/binary-to-graycode-converter-universal-gates-iitg",
+      "repo": "https://github.com/virtual-labs/exp-binary-to-grey-code-iitg",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Implementation of Boolean Functions using MUX",
       "short-name": "boolean-functions-using-mux",
-      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitg/one-bit-full-adder-using-multiplexer-iitg",
-      "tag": "v1.0.1",
+      "repo": "https://github.com/virtual-labs/exp-boolean-functions-using-mux-iitg",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "To study the J-K FF and conversion of D and T flip flop to JKFF.",
       "short-name": "truth-tables-flip-flops",
-      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitg/flipflops-iitg",
-      "tag": "v1.0.1",
+      "repo": "https://github.com/virtual-labs/exp-truth-tables-flip-flops-iitg",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "To study a simple two-bit ripple counter",
       "short-name": "two-bit-ripple-counter",
-      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitg/implement-study-ripple-counter-using-basic-universal-gates-iitg",
+      "repo": "https://github.com/virtual-labs/exp-two-bit-ripple-counter-iitg",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Design a synchronous up/down counter",
       "short-name": "synchronous-up-down-counter",
-      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitg/implement-3-bit-up-counter-iitg",
+      "repo": "https://github.com/virtual-labs/exp-synchronous-up-down-counter-iitg",
       "tag": "v1.0.0",
       "deploy": true
     }
@@ -77,5 +77,5 @@
     "description": "The lab contents are chosen such that it covers the syllabi of the digital electronics course of various universities to considerable extent.",
     "universities": ["Universities with Electronics and Communications"]
   },
-  "version": "v0.0.3"
+  "version": "v0.0.4"
 }
