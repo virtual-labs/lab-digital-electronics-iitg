@@ -34,7 +34,7 @@
       "name": "Study of Binary to Grey code converter ",
       "short-name": "binary-to-grey-code",
       "repo": "https://github.com/virtual-labs/exp-binary-to-grey-code-iitg",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -48,7 +48,7 @@
       "name": "To study the J-K FF and conversion of D and T flip flop to JKFF.",
       "short-name": "truth-tables-flip-flops",
       "repo": "https://github.com/virtual-labs/exp-truth-tables-flip-flops-iitg",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -77,5 +77,5 @@
     "description": "The lab contents are chosen such that it covers the syllabi of the digital electronics course of various universities to considerable extent.",
     "universities": ["Universities with Electronics and Communications"]
   },
-  "version": "v0.0.6"
+  "version": "v0.0.7"
 }
