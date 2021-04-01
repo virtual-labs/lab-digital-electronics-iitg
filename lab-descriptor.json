@@ -13,56 +13,56 @@
       "name": "To implement Half adder & Full adder by using basic and universal gates",
       "short-name": "half-adder-full-adder",
       "repo": "https://github.com/virtual-labs/exp-half-adder-full-adder-iitg",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "To study Parallel Binary Adder",
       "short-name": "parallel-binary-adder",
       "repo": "https://github.com/virtual-labs/exp-parallel-binary-adder-iitg",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "To study a BCD to 7 Segment LED display decoder ",
       "short-name": "bcd-to-led",
       "repo": "https://github.com/virtual-labs/exp-bcd-to-led-iitg",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Study of Binary to Grey code converter ",
       "short-name": "binary-to-grey-code",
       "repo": "https://github.com/virtual-labs/exp-binary-to-grey-code-iitg",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Implementation of Boolean Functions using MUX",
       "short-name": "boolean-functions-using-mux",
       "repo": "https://github.com/virtual-labs/exp-boolean-functions-using-mux-iitg",
-      "tag": "v1.0.0",
+      "tag": "v1.0.",
       "deploy": true
     },
     {
       "name": "To study the J-K FF and conversion of D and T flip flop to JKFF.",
       "short-name": "truth-tables-flip-flops",
       "repo": "https://github.com/virtual-labs/exp-truth-tables-flip-flops-iitg",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "To study a simple two-bit ripple counter",
       "short-name": "two-bit-ripple-counter",
       "repo": "https://github.com/virtual-labs/exp-two-bit-ripple-counter-iitg",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Design a synchronous up/down counter",
       "short-name": "synchronous-up-down-counter",
       "repo": "https://github.com/virtual-labs/exp-synchronous-up-down-counter-iitg",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     }
   ],
