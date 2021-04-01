@@ -41,7 +41,7 @@
       "name": "Implementation of Boolean Functions using MUX",
       "short-name": "boolean-functions-using-mux",
       "repo": "https://github.com/virtual-labs/exp-boolean-functions-using-mux-iitg",
-      "tag": "v1.0.",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
