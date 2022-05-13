@@ -4,6 +4,7 @@
     "link": "http://www.vlab.co.in/broad-area-electronics-and-communications"
   },
   "lab": "Digital Electronics IITG",
+  "lab_display_name": "Digital Electronics Lab",
   "phase": 3,
   "collegeName": "IITG",
   "baseUrl": "de-iitg.vlabs.ac.in",
@@ -77,7 +78,7 @@
     "description": "The lab contents are chosen such that it covers the syllabi of the digital electronics course of various universities to considerable extent.",
     "universities": ["Universities with Electronics and Communications"]
   },
-  "version": "v0.10.0",
+  "version": "v0.11.0",
   "exp_name": "Design a synchronous up/down counter",
   "exp_short_name": "synchronous-up-down-counter"
 }
