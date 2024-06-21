@@ -1,7 +1,8 @@
 {
   "broadArea": {
     "name": "Electronics and Communication Engineering",
-    "link": "http://www.vlab.co.in/broad-area-electronics-and-communications"
+    "link": "http://www.vlab.co.in/broad-area-electronics-and-communications",
+    "code": "ECE"
   },
   "lab": "Digital Electronics IITG",
   "lab_display_name": "Digital Electronics Lab",
@@ -77,8 +78,5 @@
   "courseAlignment": {
     "description": "The lab contents are chosen such that it covers the syllabi of the digital electronics course of various universities to considerable extent.",
     "universities": ["Universities with Electronics and Communications"]
-  },
-  "version": "v0.12.0",
-  "exp_name": "Design a synchronous up/down counter",
-  "exp_short_name": "synchronous-up-down-counter"
+  }
 }
