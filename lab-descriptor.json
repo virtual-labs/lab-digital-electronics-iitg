@@ -22,7 +22,7 @@
       "name": "To study Parallel Binary Adder",
       "short-name": "parallel-binary-adder",
       "repo": "https://github.com/virtual-labs/exp-parallel-binary-adder-iitg",
-      "tag": "v1.0.4",
+      "tag": "v1.0.5",
       "deploy": true
     },
     {
